@@ -93,7 +93,7 @@ if (isset($_POST["botao"])) {
     <title>Venda de Roupas</title>
 </head>
 <body>
-	<h2>DADOS DO CLIENTE</h2>
+	<h2>DADOS DO CLIENTE - git-git</h2>
 	<form method="POST" action="etapa-2.php"> <br/>
 		Nome:  <input type="text" name="nome" size="60" maxlength="50" minlength="5"
 		value="<?php if (isset($_SESSION["nome"])) echo $_SESSION["nome"] ?>">
