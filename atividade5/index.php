@@ -23,7 +23,7 @@
 </head>
 <body>
     <header>
-        <h1>Explorando o Mundo da Moda  </h1>
+        <h1>Explorando o Mundo da Moda , Venda de Roupas </h1>
     </header>   
     
     <section id="Mundo-moda">
