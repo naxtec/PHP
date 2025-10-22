@@ -23,7 +23,7 @@
 </head>
 <body>
     <header>
-        <h1>Explorando o Mundo da Moda , funciona pelo amor de deus  </h1>
+        <h1>Explorando o Mundo da Moda , funciona pelo amor de deus , funcionou jesus amado </h1>
     </header>   
     
     <section id="Mundo-moda">
